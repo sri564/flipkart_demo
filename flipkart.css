@@ -1,0 +1,170 @@
+.wrapper-div{
+    
+     
+    
+}    
+.fix-div{
+    margin-top:0;
+    height:55;
+    background-color:11698e;
+    margin-left:0;
+    margin-right:0;
+    width:100%;
+    position:fixed;
+    
+}
+
+body{
+    margin:0;
+}
+
+.logo-div{
+    
+    position:absolute;
+    left:400;
+    top:10;
+    height:35;
+    width:75;
+}
+.search-div{
+    height:35;
+    width:300;
+    background-color:red;
+    position:absolute;
+    left:500;
+    top:10;
+}
+.search{
+     height:35;
+    width:300;
+}
+
+
+.login-div{
+    position:absolute;
+    left:900;
+    top:15;
+    background-color:white;
+    width:100;
+    text-align:center;
+}
+.a{
+    color:black;
+}
+.login-div:hover{
+    background-color:green;
+}
+.cart{
+     position:absolute;
+    left:1100;
+    top:15;
+    background-color:white;
+    width:100;
+    text-align:center;
+}
+.cart-a{
+    color:black;
+}
+.cart:hover{
+    background-color:green;
+}
+.div-2nd{
+    position:absolute;
+    top:56;
+    height:50;
+    width:100%;
+    background-color:white;
+    border:solid 1px black;
+}
+.photo-link{
+    height:200;
+    width:100%;
+    background-color:11698e;
+    position:absolute;
+    top:150;
+
+}
+.photo-1{
+    height:150;
+    width:150;
+    
+    position:relative;
+    top:25;
+    left:20;
+    
+    text-align:center;
+}
+
+.mobile-photo:hover{
+      height:160;
+      width:160;
+      
+}
+.mobile-photo{
+    margin-bottom:0;
+}
+p{
+    margin-top:0;
+    color:yellow;
+}
+.fashionlogo{
+    height:150;
+    width:150;
+    
+    position:absolute;
+    left:300;
+    top:25;
+    text-align:center;
+
+}
+.fashionlogopic:hover{
+    height:160;
+    width:160;
+}
+.tvlogo{
+    height:150;
+    width:150;
+    position:absolute;
+    left:600;
+    top:25;
+    text-align:center;
+}
+.tvlogo:hover{
+    height:160;
+    width:160;
+}
+.men{
+    height:150;
+    width:150;
+    
+    position:absolute;
+    left:900;
+    top:25;
+    text-align:center;
+}
+.menimage:hover{
+    height:160;
+    width:160;
+}
+.women{
+    height:150;
+    width:150;
+    background-color:red;
+    position:absolute;
+    top:25;
+    left:1200;
+    text-align:center;
+}
+.womenlogo:hover{
+    height:160;
+    width:160;
+}
+.videoadd{
+    height:290;
+    width:500;
+    position:absolute;
+    
+    top:360;
+    
+    
+}
